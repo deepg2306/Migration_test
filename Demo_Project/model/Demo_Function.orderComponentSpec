@@ -7,6 +7,6 @@
   <minDuration/>
   <defaultDuration/>
   <maxDuration/>
-  <isExecutable>true</isExecutable>
+  <isExecutable>false</isExecutable>
   <orderTemplateContribution/>
 </com:modelEntity>
